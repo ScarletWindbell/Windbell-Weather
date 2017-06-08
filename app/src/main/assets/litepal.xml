@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="WindbellWeather"/>
+
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.windbellweather.android.db.Provience"/>
+        <mapping class="com.windbellweather.android.db.City"/>
+        <mapping class="com.windbellweather.android.db.County"/>
+    </list>
+
+</litepal>
